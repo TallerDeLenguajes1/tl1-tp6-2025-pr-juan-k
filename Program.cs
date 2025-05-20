@@ -6,6 +6,7 @@ Console.WriteLine("Valor de a:" + a);
 Console.WriteLine("Valor de a:" + b);
 
 
+
 string? invertir;
 Console.Write("Ingrese un numero:");
 invertir = Console.ReadLine();
