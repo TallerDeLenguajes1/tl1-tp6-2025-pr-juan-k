@@ -1,4 +1,6 @@
-﻿int a;
+﻿using System.Security.AccessControl;
+
+int a;
 int b;
 a = 10;
 b = a;
@@ -77,4 +79,11 @@ int Dividir(int a, int b)
 {
     return a / b;
 }
+Console.WriteLine("El valor absoluto de:" + resultado + "es" + resultado);
+int cuadrado = resultado * resultado;
+Console.WriteLine("El cuadrado de:"+resultado +"es"+cuadrado);
+int raiz = resultado;
+Console.WriteLine("El cuadrado de:"+resultado +"es"+raiz);
+
+
 
