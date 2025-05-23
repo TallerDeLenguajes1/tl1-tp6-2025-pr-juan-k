@@ -22,7 +22,7 @@ while (numero > 0)
     numero = numero / 10;
 }
 Console.Write("El numero invertido:"+invertido);*/
-
+/*
 int num1 = 0,num2 = 0,eleccion = 0;
 do
 {
@@ -115,5 +115,24 @@ if (num_1 > num_2)
     Console.WriteLine("{0}-Es el numero mayor",num_2);
     Console.WriteLine("{0}-Es el numero menor",num_1);
 }
+*/
 
+    Console.Write("Ingrese una cadena:");
+    string cadena_1 = Console.ReadLine();
+    int longitud_c1 = cadena_1.Length;
+    Console.WriteLine("La longitud de la cadena es:{0}",longitud_c1);
+    Console.Write("Ingrese una segunda cadena:");
+    string cadena_2 = Console.ReadLine();
+    string cadena_concatenada = cadena_1 + cadena_2;
+    Console.WriteLine("Cadena concatenada: "+cadena_concatenada);
+    Console.Write("\n\nIngrese el fragmento que desea extraer:");
+    string fragmento = Console.ReadLine();
+    int posicion = cadena_concatenada.IndexOf(fragmento);
 
+    if (posicion != -1)
+    {
+        string extraido = cadena_concatenada.Substring(posicion,fragmento.Length);
+        Console.WriteLine("Fragmento extraido:" + extraido);
+    }else{
+        Console.WriteLine("El texto no fue encontrado en la cadena");
+    }
