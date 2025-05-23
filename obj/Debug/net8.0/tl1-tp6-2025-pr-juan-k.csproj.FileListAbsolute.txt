@@ -13,3 +13,18 @@ C:\Users\Alumno\Desktop\tp-con diego\tl1-tp6-2025-pr-juan-k\obj\Debug\net8.0\ref
 C:\Users\Alumno\Desktop\tp-con diego\tl1-tp6-2025-pr-juan-k\obj\Debug\net8.0\tl1-tp6-2025-pr-juan-k.pdb
 C:\Users\Alumno\Desktop\tp-con diego\tl1-tp6-2025-pr-juan-k\obj\Debug\net8.0\tl1-tp6-2025-pr-juan-k.genruntimeconfig.cache
 C:\Users\Alumno\Desktop\tp-con diego\tl1-tp6-2025-pr-juan-k\obj\Debug\net8.0\ref\tl1-tp6-2025-pr-juan-k.dll
+C:\Users\Juan Carlos\Desktop\practica de programacioon\# Practica taller 1\segundo parcial c#\tp-01\tl1-tp6-2025-pr-juan-k\obj\Debug\net8.0\tl1-tp6-2025-pr-juan-k.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Carlos\Desktop\practica de programacioon\# Practica taller 1\segundo parcial c#\tp-01\tl1-tp6-2025-pr-juan-k\obj\Debug\net8.0\tl1-tp6-2025-pr-juan-k.AssemblyInfoInputs.cache
+C:\Users\Juan Carlos\Desktop\practica de programacioon\# Practica taller 1\segundo parcial c#\tp-01\tl1-tp6-2025-pr-juan-k\obj\Debug\net8.0\tl1-tp6-2025-pr-juan-k.AssemblyInfo.cs
+C:\Users\Juan Carlos\Desktop\practica de programacioon\# Practica taller 1\segundo parcial c#\tp-01\tl1-tp6-2025-pr-juan-k\obj\Debug\net8.0\tl1-tp6-2025-pr-juan-k.csproj.CoreCompileInputs.cache
+C:\Users\Juan Carlos\Desktop\practica de programacioon\# Practica taller 1\segundo parcial c#\tp-01\tl1-tp6-2025-pr-juan-k\obj\Debug\net8.0\tl1-tp6-2025-pr-juan-k.sourcelink.json
+C:\Users\Juan Carlos\Desktop\practica de programacioon\# Practica taller 1\segundo parcial c#\tp-01\tl1-tp6-2025-pr-juan-k\obj\Debug\net8.0\tl1-tp6-2025-pr-juan-k.dll
+C:\Users\Juan Carlos\Desktop\practica de programacioon\# Practica taller 1\segundo parcial c#\tp-01\tl1-tp6-2025-pr-juan-k\obj\Debug\net8.0\refint\tl1-tp6-2025-pr-juan-k.dll
+C:\Users\Juan Carlos\Desktop\practica de programacioon\# Practica taller 1\segundo parcial c#\tp-01\tl1-tp6-2025-pr-juan-k\obj\Debug\net8.0\tl1-tp6-2025-pr-juan-k.pdb
+C:\Users\Juan Carlos\Desktop\practica de programacioon\# Practica taller 1\segundo parcial c#\tp-01\tl1-tp6-2025-pr-juan-k\bin\Debug\net8.0\tl1-tp6-2025-pr-juan-k.exe
+C:\Users\Juan Carlos\Desktop\practica de programacioon\# Practica taller 1\segundo parcial c#\tp-01\tl1-tp6-2025-pr-juan-k\bin\Debug\net8.0\tl1-tp6-2025-pr-juan-k.deps.json
+C:\Users\Juan Carlos\Desktop\practica de programacioon\# Practica taller 1\segundo parcial c#\tp-01\tl1-tp6-2025-pr-juan-k\bin\Debug\net8.0\tl1-tp6-2025-pr-juan-k.runtimeconfig.json
+C:\Users\Juan Carlos\Desktop\practica de programacioon\# Practica taller 1\segundo parcial c#\tp-01\tl1-tp6-2025-pr-juan-k\bin\Debug\net8.0\tl1-tp6-2025-pr-juan-k.dll
+C:\Users\Juan Carlos\Desktop\practica de programacioon\# Practica taller 1\segundo parcial c#\tp-01\tl1-tp6-2025-pr-juan-k\bin\Debug\net8.0\tl1-tp6-2025-pr-juan-k.pdb
+C:\Users\Juan Carlos\Desktop\practica de programacioon\# Practica taller 1\segundo parcial c#\tp-01\tl1-tp6-2025-pr-juan-k\obj\Debug\net8.0\tl1-tp6-2025-pr-juan-k.genruntimeconfig.cache
+C:\Users\Juan Carlos\Desktop\practica de programacioon\# Practica taller 1\segundo parcial c#\tp-01\tl1-tp6-2025-pr-juan-k\obj\Debug\net8.0\ref\tl1-tp6-2025-pr-juan-k.dll
