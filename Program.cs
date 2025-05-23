@@ -41,6 +41,7 @@ do
 
 do
 {
+    
     Console.Write("1-Sumar, 2-Resta, 3-Multiplicar, 4-Dividir \n Ingrese que quiere hacer: ");
     string? dato = Console.ReadLine();
     eleccion = int.Parse(dato);
